@@ -15,7 +15,7 @@ Projenin çalıştırılması için Python ve pip yüklü olmalıdır.
 1. Depoyu yerel makinenize klonlayın.
 
     ```bash
-    git clone https://github.com/NaimeSara2020/zyfera_test_case.git
+    git clone https://github.com/NaimeSara2020/student_grade_calculation.git
     ```
 
 2. Proje dizinine gidin.
