@@ -1,0 +1,13 @@
+# Python bytecode files
+__pycache__/
+
+# Virtual environment
+test_case
+
+# IDE files
+.idea
+*.iml
+instance
+students.db
+# Ignore any files ending with .log
+*.log
